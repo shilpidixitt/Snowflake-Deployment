@@ -21,4 +21,4 @@ jobs:
     - name: Test installation
       run:  ~/snowflake/snowsql -v
     - name: Execute SQL against Snowflake
-      run:  ~/snowflake/snowsql -f code.sql, V1.1.1__initial_objects.sql;
+      run:  ~/snowflake/snowsql -f V1.1.1__initial_objects.sql;
