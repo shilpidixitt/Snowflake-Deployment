@@ -1,4 +1,4 @@
-# Workflow for Simple query execution via snowsql
+# Workflow for Simple query execution via Snowsql
 name: SnowSQL
 env:
   SNOWSQL_DEST: ~/snowflake
